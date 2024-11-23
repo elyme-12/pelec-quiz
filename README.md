@@ -1,1 +1,0 @@
-# pelec-quiz
